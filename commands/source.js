@@ -3,7 +3,7 @@ exports.run = function(client, message, args) {
 	const settings = require('../settings.json');
 	const prefix = settings.prefix;
 
-	message.channel.send("This command is here for whenever I want to release my source code for this selfbot there will be an avaliable link here somewhere.")
+	message.channel.send("Want to have and use this bot yourself? Here is a link to  the source code: https://github.com/shadowolfyt/shadowolf-Discord-Selfbot")
 
 	console.log(`${message.author.username} issued the command ${prefix}source`);
 
