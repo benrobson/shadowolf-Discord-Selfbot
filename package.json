@@ -1,0 +1,27 @@
+{
+  "name": "shadowBot",
+  "version": "1.0.0",
+  "description": "shadowBot - My Own Personal Discord Bot Project<",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowolfyt/shadowBot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowolfyt/shadowBot/issues"
+  },
+  "homepage": "https://github.com/shadowolfyt/shadowBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ms": "^2.0.0",
+    "return-deep-diff": "^0.2.9"
+  }
+}
